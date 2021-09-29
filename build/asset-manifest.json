@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdc790d8.chunk.css",
+    "main.js": "/static/js/main.7d3aca90.chunk.js",
+    "main.js.map": "/static/js/main.7d3aca90.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/css/2.76a90889.chunk.css": "/static/css/2.76a90889.chunk.css",
+    "static/js/2.d2d08474.chunk.js": "/static/js/2.d2d08474.chunk.js",
+    "static/js/2.d2d08474.chunk.js.map": "/static/js/2.d2d08474.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.76a90889.chunk.css.map": "/static/css/2.76a90889.chunk.css.map",
+    "static/css/main.fdc790d8.chunk.css.map": "/static/css/main.fdc790d8.chunk.css.map",
+    "static/js/2.d2d08474.chunk.js.LICENSE.txt": "/static/js/2.d2d08474.chunk.js.LICENSE.txt",
+    "static/media/bell-slash.d5b33ff8.svg": "/static/media/bell-slash.d5b33ff8.svg",
+    "static/media/bell.dfa39232.svg": "/static/media/bell.dfa39232.svg",
+    "static/media/eye-dropper-full.a8f48c75.svg": "/static/media/eye-dropper-full.a8f48c75.svg",
+    "static/media/eye-dropper.dfef89ab.svg": "/static/media/eye-dropper.dfef89ab.svg",
+    "static/media/gear.8d19a260.svg": "/static/media/gear.8d19a260.svg",
+    "static/media/notification-audio.mp3": "/static/media/notification-audio.33641ea5.mp3",
+    "static/media/wifi-exclamation.78751bf9.svg": "/static/media/wifi-exclamation.78751bf9.svg",
+    "static/media/wifi.6972c480.svg": "/static/media/wifi.6972c480.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/css/2.76a90889.chunk.css",
+    "static/js/2.d2d08474.chunk.js",
+    "static/css/main.fdc790d8.chunk.css",
+    "static/js/main.7d3aca90.chunk.js"
+  ]
+}
