@@ -2,8 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-Link: [Click here](https://wsclone-16.netlify.app) to view the frontend demonstration.
-
 This is a WhatsApp clone used for secured chatting by creating ids using UUID JS library. The backend isn't available on Heroku at the moment due to taking down of free plans, but I am working to shift it on other servers. Socket.IO alongwith Local Storage & JSON parser functions was implemented in this complex project for realtime messaging. Bootstrap was used for quick and responsive frontend designing.
 
 ## A short video depicting the functioning
