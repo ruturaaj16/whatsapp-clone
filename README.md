@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-This is a WhatsApp clone used for secured chatting by creating ids using UUID JS library. The backend isn't available on Heroku at the moment due to taking down of free plans, but I am working to shift it on other servers. Socket.IO alongwith Local Storage & JSON parser functions was implemented in this complex project for realtime messaging. Bootstrap was used for quick and responsive frontend designing.
+This is a WhatsApp clone used for secured chatting by creating ids using UUID JS library. The backend isn't available on Heroku at the moment due to taking down of free plans, but I am working to shift it on other servers. Socket.IO along with Local Storage & JSON parser functions was implemented in this complex project for realtime messaging. Bootstrap was used for quick and responsive frontend designing.
+
+## Frontend Overview
+
+This branch contains the React frontend for the WhatsApp-style chat application. It handles the user interface, chat state, responsive layout, and real-time communication with the backend service. The frontend creates secure chat IDs with UUID, renders messages in a WhatsApp-inspired design, and connects to Socket.IO for live updates.
+
+The backend for this project is maintained separately on the `backend` branch.
 
 ## A short video depicting the functioning
 
@@ -34,4 +40,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
